@@ -1,4 +1,4 @@
-# Emapthetic Model
+# MultiSensory Conversational Agent
 
 ## Requirment
 * python 3.8.17
