@@ -4,6 +4,8 @@
 - you can preprocess raw video to utterance video in `./preprocessing`.
 - more details are writen on  `./preprocessing/README.md`.
 
+![MSC_description](./images/pipeline.png)
+
 ## Feature Extraction
 
 ### 1. Video Feature Extract

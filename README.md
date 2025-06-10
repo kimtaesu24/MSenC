@@ -1,5 +1,9 @@
 # MultiSensory Conversational Agent
 
+This repository contains a pytorch implementation for the Interspeech 2025 paper, [<u>Towards Human-like Multimodal Conversational Agent by Generating Engaging Speech.</u>]()
+
+![MSC_description](./assets/model_arch.png)
+
 ## Requirment
 * python 3.8.17
 * install requirments
