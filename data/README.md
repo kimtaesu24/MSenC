@@ -30,4 +30,4 @@ run `./MSC/make_csv_data.ipynb`
 - We follow the process of Parler-tts ([dataspeech](https://github.com/huggingface/dataspeech))
 ![MSC_description](./images/MSC_description.png)
 
-- you can download from huggingface dataset
+- you can download from ([huggingface dataset]([https://github.com/huggingface/dataspeech](https://huggingface.co/datasets/TAESOO98/msc-audio-transcript)))
