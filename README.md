@@ -41,6 +41,12 @@ Template
             └── modules.py           
 ```
 
+## Checkpoint
+
+You can dowload pre-trained model _(text+audio+video modality)_ trained with **MSenC dataset** from below link:
+- [<u>Google Drive</u>](https://drive.google.com/file/d/1KHHxHNNxM_fPSiyGQLMP3g-gU1bp--jS/view?usp=sharing)
+
+
 ## training
 
 - You can train the model with MSC dataset with following command:
@@ -72,4 +78,5 @@ python train.py --data_name MSC --stage 1 --LLM mistral1 --target text_descripti
 python train.py --data_name MSC --stage 1 --LLM mistral1 --LLM_freeze --target text_description --max_length 200 --QFormer blip2 --bs 6 --modal text_audio_video --wandb_name "Audio Latent Generation" --epoch 10 --save 2
 python train.py --data_name MELD --stage 1 --LLM mistral1 --LLM_freeze --target text_description --max_length 200 --QFormer blip2 --bs 6 --modal text_audio_video --wandb_name "Audio Latent Generation" --epoch 10 --save 2
 ```
+
 
