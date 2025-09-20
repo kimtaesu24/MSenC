@@ -1,7 +1,6 @@
 # MultiSensory Conversational Agent
 
-This repository contains a pytorch implementation for the Interspeech 2025 paper, "Towards Human-like Multimodal Conversational Agent by Generating Engaging Speech",
-[<u>Towards Human-like Multimodal Conversational Agent by Generating Engaging Speech.</u>](https://www.isca-archive.org/interspeech_2025/kim25m_interspeech.pdf)
+This repository contains a pytorch implementation for the Interspeech 2025 paper, "Towards Human-like Multimodal Conversational Agent by Generating Engaging Speech".
 
 [![arXiv](https://img.shields.io/badge/arXiv-2509.14627-b31b1b.svg)](http://arxiv.org/abs/2509.14627)
 [![arXiv](https://img.shields.io/badge/PorjectPage-sample-00ff00.svg)]([https://arxiv.org/abs/1234.56789](https://kimtaesu24.github.io/))
@@ -98,3 +97,4 @@ python train.py --data_name MELD --stage 1 --LLM mistral1 --LLM_freeze --target 
   issn      = {2958-1796},
 }
 ```
+
