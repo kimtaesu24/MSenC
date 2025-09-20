@@ -1,6 +1,10 @@
 # MultiSensory Conversational Agent
 
-This repository contains a pytorch implementation for the Interspeech 2025 paper, [<u>Towards Human-like Multimodal Conversational Agent by Generating Engaging Speech.</u>](https://www.isca-archive.org/interspeech_2025/kim25m_interspeech.pdf)
+This repository contains a pytorch implementation for the Interspeech 2025 paper, "Towards Human-like Multimodal Conversational Agent by Generating Engaging Speech",
+[<u>Towards Human-like Multimodal Conversational Agent by Generating Engaging Speech.</u>](https://www.isca-archive.org/interspeech_2025/kim25m_interspeech.pdf)
+
+[![arXiv](https://img.shields.io/badge/arXiv-2509.14627-b31b1b.svg)](http://arxiv.org/abs/2509.14627)
+[![arXiv](https://img.shields.io/badge/PorjectPage-sample-00ff00.svg)]([https://arxiv.org/abs/1234.56789](https://kimtaesu24.github.io/))
 
 ![MSC_description](./assets/model_arch.png)
 
@@ -80,3 +84,17 @@ python train.py --data_name MELD --stage 1 --LLM mistral1 --LLM_freeze --target 
 ```
 
 
+
+## Citation
+
+```
+@inproceedings{kim25m_interspeech,
+  title     = {{Towards Human-like Multimodal Conversational Agent by Generating Engaging Speech}},
+  author    = {Taesoo Kim and Yongsik Jo and Hyunmin Song and Taehwan Kim},
+  year      = {2025},
+  booktitle = {{Interspeech 2025}},
+  pages     = {4828--4832},
+  doi       = {10.21437/Interspeech.2025-1075},
+  issn      = {2958-1796},
+}
+```
