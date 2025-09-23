@@ -49,6 +49,7 @@ Template
 You can dowload pre-trained model _(text+audio+video modality)_ trained with **MSenC dataset** from below link:
 - [<u>Google Drive</u>](https://drive.google.com/file/d/1KHHxHNNxM_fPSiyGQLMP3g-gU1bp--jS/view?usp=sharing)
 
+(The pretrained checkpoints will be released shortly via Hugging Face)
 
 ## training
 
@@ -97,5 +98,6 @@ python train.py --data_name MELD --stage 1 --LLM mistral1 --LLM_freeze --target 
   issn      = {2958-1796},
 }
 ```
+
 
 
